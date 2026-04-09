@@ -64,6 +64,9 @@ Example for coils:
 Configurable parameters:
 - TCP Port
 
+### Implementation
+For a deeper dive into the feature implementation look at [[Implementation]]
+
 ---
 
 ## References
