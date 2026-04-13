@@ -32,9 +32,7 @@ The machine will only support Modbus over TCP, and will act as the slave
 #### Implemented Register Types
 - Holding Registers (Read/Write)
 - Coils (Read/Write, boolean)
-
-#### Addressing
-- 1-based
+- 1-based addressing
 
 
 Example for coils:
@@ -65,7 +63,7 @@ Configurable parameters:
 - TCP Port
 
 ### Implementation
-For a deeper dive into the feature implementation look at [[Implementation]]
+For a deeper dive into the feature implementation look at [[ModbusImplementation]]
 
 ---
 

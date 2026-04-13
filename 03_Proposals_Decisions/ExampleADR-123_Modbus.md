@@ -9,7 +9,7 @@
 - Accepted
 
 # Context
-OEMers want to interact with the machine using PLC Modbus.
+OEMers want to interact with the machine using PLC.
 
 The system requires a standardized way for external controllers (PLCs) to:
 - Read machine data (e.g. status, measurements)

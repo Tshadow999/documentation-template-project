@@ -15,27 +15,25 @@ This document will dive into the deep end  on the modbus slave device implementa
 ## Content
 
 ### Structure
-![[ModbusClassDiagram.svg]]
+![[ModbusDiagramClasses.svg]]
 
 Above you can see the structure which the separate modbus classes use the talk to each other.
 
-- The TCPEndpoint sends request to the modbusAPI, which parses the raw bytes into a structure. 
+- The TCPEndpoint sends request to the modbusAPI, which uses the Parser to  parse the raw bytes into a structure. 
 - Afterwards the ModbusAPI takes this struct and passes it to the Registermapping.
 - This will perform the request, in case the data is valid, else return some error value
-- This return value is parsed again to generate a response
+- This return value is parsed (in the Parser) to generate a response
 - Finally the ModbusAPI sends the response back to the TCPEndpoint which will send it back over TCP.
-
 
 ### ModbusTCPEndpoint
 This works similar to RemoteTCPEndpoint as it uses the same statemachine.
 The part where this differs is with it's port. This should be customizable by the user using the touchscreen.
 
-
 For this a parameter is used and then linked in `EWBridge` .
 
 
 ### Registermapping 
-![[ModbusArchitecture]]
+![[ModbusDiagramArchitecture]]
 
 The structure to implement modbus uses both sections and subsections in order to easily deal with the requests. Each modbus request is assigned to a specific register range, which is coupled to a subsection.
 This range is calculated by the amount of data that each call from the backend expects.

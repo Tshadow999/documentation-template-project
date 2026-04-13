@@ -10,12 +10,12 @@
 ## Purpose
 Contain a list of all templates with some extra information
 
-
 ### ADR Template
 - [[ADR-XXX_Template]]
-- Change XXX to the correct ID and give it a descriptive name
-
+- Add a link to asana, and give it the correct DVBID
+- Change file name to be descriptive
 
 ### Feature template
 - [[Feature-XXX_Template]]
-- Change XXX to the correct ID and give it a descriptive name
+- Add a link to asana, and give it the correct DVBID
+- Change file name to be descriptive
