@@ -68,10 +68,10 @@ Always ask:
 
 ## Key documents
 
-- [[Project Summary]] → Start understanding the project
-- [[System Overview]] → System structure
-- [[ADR Index]] → Why decisions were made
-- [[Getting Started]] → Setup and development
+- [[Project Summary]] to start understanding the project
+- [[System Overview]] to view the overall system structure
+- [[ADR Index]] to see why decisions were made
+- [[Getting Started]] to setup your development environment
 
 ## Expectations
 

@@ -14,5 +14,5 @@ This document explains:
 - Where to go next
 
 After that:
-- [[Project Summary]] → understand the project
-- [[Getting Started]] → start developing
+- [[Project Summary]] to understand the project
+- [[Getting Started]] to start developing
