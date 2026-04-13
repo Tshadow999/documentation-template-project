@@ -17,7 +17,7 @@
 ## Architecture
 - [[System Overview]]
 
-## Proposals and Decisions
+## Decisions
 - [[ADR Index]]
 
 ## Features

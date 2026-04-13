@@ -71,7 +71,7 @@ For a deeper dive into the feature implementation look at [[ModbusImplementation
 ---
 
 ## References
-- [[ExampleADR-5293_Modbus]]
+- [[ADR-5293_Modbus]]
 
 ---
 

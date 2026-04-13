@@ -11,6 +11,19 @@
 Explain how the proposal / decision system is supposed to work.
 Also contain a list of ADRs.
 
+
+## Content
+The `Drafts/` subdirectory contains all proposals which are not yet (fully) implemented.
+The other ADRs are implemented and the documentation should be correct.
+The ADRs will be listed below, separated by their status:
+
+### Drafts
+- [[ADR-123_CalibrationProcedure]]
+
+### Active
+- [[ADR-5293_Modbus]]
+
+
 ---
 # Alternative Structure
 Asana could also be used to host the ADRs instead of this document containing links to different ADRs which are stored here.
