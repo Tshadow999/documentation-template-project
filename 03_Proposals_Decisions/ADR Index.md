@@ -8,3 +8,29 @@
 
 ## Purpose
 Explain how the proposal / decision system is supposed to work.
+Also contain a list of ADRs.
+
+---
+# Alternative Structure
+Asana could also be used to host the ADRs instead of this document containing links to different ADRs which are stored here.
+This would mean that this directory contains subdirectories for larger systems and each subdirectory would contain a single or multiple files with a list of links to the ADRs on asana.
+
+Example:
+- Frontend/
+	- `ADR-EmbeddedWizard.md`:
+		1. Itemviews
+		2. Enums
+		3. etc.
+- Backend/
+	- `ADR-Testing.md`:
+		1. Test framework
+		2. Simulation setup
+	- `ADR-OS.md`:
+		1. OS choice
+- Hardware/
+	- `ADR-Communication.md`:
+		1. TCP driver choice
+		2. Bluetooth driver choice
+		3. etc
+	- `ADR-MCU.md`:
+		1. Microcontroller choice
