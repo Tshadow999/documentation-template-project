@@ -2,8 +2,8 @@
 ## Last updated
 
 | Version | Date       | Author | Commit | Change description |
-|---------|------------|--------|--------|--------------------|
-| v1.0.0  | 2026-04-09 | Tycho  |        | Initial version    |
+| ------- | ---------- | ------ | ------ | ------------------ |
+| v1.0.0  | 2026-04-13 | Tycho  |        | Initial version    |
 
 ## Asana DVBID-5293
 [Modbus](https://app.asana.com/1/1205536482887515/project/1210423538377760/task/1212605284759718?focus=true)
@@ -34,7 +34,6 @@ This works similar to RemoteTCPEndpoint as it uses the same statemachine.
 The part where this differs is with it's port. This should be customizable by the user using the touchscreen.
 
 For this a parameter is used and then linked in `EWBridge` .
-
 
 ### Registermapping 
 ![[ModbusDiagramArchitecture]]
