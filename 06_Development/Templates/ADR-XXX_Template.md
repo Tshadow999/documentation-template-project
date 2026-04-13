@@ -2,7 +2,7 @@
 ## Last updated
 | Version | Date       | Author | Commit | Change description |
 | ------- | ---------- | ------ | ------ | ------------------ |
-| v1.0.0  | 2026-04-09 |        |        |                    |
+| v1.0.0  | 2026-04-09 | Tycho  |        | Initial version    |
 
 ## Asana DVBID-X
 Place link to tasks here, change X in title to proper ID, also change tag ID

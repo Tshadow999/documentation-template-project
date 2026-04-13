@@ -1,3 +1,4 @@
+
 ## Last updated
 
 | Version | Date       | Author | Commit |
@@ -18,14 +19,13 @@
 
 ## Proposals and Decisions
 - [[ADR Index]]
-- Individual ADRs (ADR-XXX)
 
 ## Features
 - Feature-specific documentation files
+- e.g: [[Modbus]]
 
 ## API
 - [[API Overview]]
-- External API references
 
 ## Development
 - [[Getting Started]]

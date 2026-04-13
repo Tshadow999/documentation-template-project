@@ -62,7 +62,7 @@ Replaced by a newer alternative.
 
 ## References
 - [[Goals and Scope]]
-- [[Proposals and Decisions]]
+- [[ADR Index]]
 
 
 ---

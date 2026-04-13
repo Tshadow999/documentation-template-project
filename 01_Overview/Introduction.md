@@ -1,8 +1,16 @@
 
+## Last updated
+
+| Version | Date       | Author | Commit |
+|---------|------------|--------|--------|
+| v1.0.0  | 2026-04-09 | Tycho  |        |
+
+---
+
 ## Start here
 
 > This is the entry point for the documentation.
-> If you are new to this project, read this page first.
+> If you are new to this project, read this document first.
 
 ## Purpose
 This documentation is the **single source of truth** for the project.

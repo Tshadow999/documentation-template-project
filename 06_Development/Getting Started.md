@@ -1,3 +1,4 @@
+
 ## Last updated
 
 | Version | Date       | Author | Commit |
@@ -8,7 +9,6 @@
 
 ## Purpose
 Be able to setup the development environment to get started on the project.
-
 
 ## Content
 

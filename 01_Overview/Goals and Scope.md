@@ -68,7 +68,7 @@ Does NOT cover:
 
 ## References
 - [[Project Summary]]
-- [[Development]]
+- [[Getting Started]]
 
 ### Tags:
 #overview

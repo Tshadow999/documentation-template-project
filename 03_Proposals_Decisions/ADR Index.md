@@ -1,3 +1,4 @@
+
 ## Last updated
 
 | Version | Date       | Author | Commit |
@@ -34,3 +35,5 @@ Example:
 		3. etc
 	- `ADR-MCU.md`:
 		1. Microcontroller choice
+
+The features directory can be separated in a similar manner to organize it better.
